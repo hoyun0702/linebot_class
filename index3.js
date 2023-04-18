@@ -3,7 +3,7 @@ const botsdk = require('@line/bot-sdk')
 const { Configuration, OpenAIApi } = require("openai");
 
 const configuration = new Configuration({
-    apiKey: "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",
+    apiKey: "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",
 });
 const openai = new OpenAIApi(configuration);
 
